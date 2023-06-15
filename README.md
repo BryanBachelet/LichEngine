@@ -67,3 +67,4 @@ The Lich Engine have basics UI display, we can show Text on screen and Image. Al
     <li> <b>ImGui</b> - Editor UI interface library
 </ul>
 
+<b>Warning :</b> All the DLL are in zip file. You need put them all where the build is created.
